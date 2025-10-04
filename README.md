@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sushrut%20Lachure&fontSize=42&fontAlignY=30&animation=twinkling&fontColor=gradient" width="100%"/>
   
-  <h3>🚀 Full-Stack Software Engineer, Finance Technology & AI Enthusiast</h3>
+  ### 🚀 Full-Stack Software Engineer, Finance Technology & AI Enthusiast
   
   <p>
     <em>I learn and build scalable intelligent solutions that make a difference</em>
@@ -11,7 +11,6 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sushrut-lachure)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sushrut22)
   [![Profile Views](https://komarev.com/ghpvc/?username=Sushrut22&color=brightgreen&style=for-the-badge)](https://github.com/Sushrut22)
-
 </div>
 
 ---
@@ -117,6 +116,7 @@ Built a comprehensive healthcare solution for managing patient records, appointm
 
 </td>
 </tr>
+
 <tr>
 <td width="50%">
 
@@ -133,18 +133,19 @@ Developed an intelligent video surveillance system using computer vision and dee
 </td>
 <td width="50%">
 
-### 📚 [BookBuddy](https://github.com/Sushrut22/BookBuddy)
-**Book Management Platform**
+### 🎬 [snapvision-server](https://github.com/Sushrut22/snapvision-server)
+**Server for SnapVision – AI-Based Video Summarization**
 
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![AI](https://img.shields.io/badge/AI-FF6F00?style=flat-square&logo=ai&logoColor=white)
 
-Created a user-friendly book management system with features for cataloging, borrowing, and community recommendations.
+Server for SnapVision – Handles AI-based video summarization, supports Python and Go workflows. Includes links for models, sample data, and video demo.
 
 </td>
 </tr>
+
 <tr>
 <td width="50%">
 
