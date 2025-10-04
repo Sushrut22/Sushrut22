@@ -1,15 +1,17 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sushrut%20Lachure&fontSize=42&fontAlignY=30&animation=twinkling&fontColor=gradient" width="100%"/>
   
-  <h3>🚀 Full-Stack Software Engineer | Finance Technology & AI Enthusiast</h3>
+  <h3>🚀 Full-Stack Software Engineer, Finance Technology & AI Enthusiast</h3>
   
   <p>
     <em>I learn and build scalable intelligent solutions that make a difference</em>
   </p>
   
+  
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sushrut-lachure)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sushrut22)
   [![Profile Views](https://komarev.com/ghpvc/?username=Sushrut22&color=brightgreen&style=for-the-badge)](https://github.com/Sushrut22)
+
 </div>
 
 ---
@@ -86,25 +88,91 @@ const sushrut = {
 
 ## 🚀 Featured Projects
 
-### 1. 💹 **TradeForces** - AI-Powered E-Trading Platform
+<table>
+<tr>
+<td width="50%">
+
+### 💹 [TradeForces](https://github.com/Sushrut22/TradeForces)
+**AI-Powered E-Trading Platform**
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
 Engineered a scalable, end-to-end trading platform with containerized microservices architecture. Built TradeSentinel, a Generative AI Chatbot using fine-tuned LLM (TinyLLAMA) for real-time trading signals and portfolio optimization.
 
-**Tech:** Ollama, Scipy, Dash, Plotly, Python, Flask, React.js, MongoDB, Docker
+</td>
+<td width="50%">
 
-### 2. 🏥 **MedicMate** - Healthcare Management System
+### 🏥 [MedicMate](https://github.com/Sushrut22/MedicMate)
+**Healthcare Management System**
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white)
+
 Built a comprehensive healthcare solution for managing patient records, appointments, and medical workflows with secure authentication and real-time updates.
 
-**Tech:** Spring Boot, React.js, PostgreSQL, JWT, Docker
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-### 3. 📹 **SnapVision** - AI Video Surveillance
+### 📹 [SnapVision](https://github.com/Sushrut22/SnapVision)
+**AI Video Surveillance**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+
 Developed an intelligent video surveillance system using computer vision and deep learning for real-time object detection and anomaly detection.
 
-**Tech:** Python, TensorFlow, OpenCV, Flask, React.js
+</td>
+<td width="50%">
 
-### 4. 📚 **BookBuddy** - Book Management Platform
+### 📚 [BookBuddy](https://github.com/Sushrut22/BookBuddy)
+**Book Management Platform**
+
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
 Created a user-friendly book management system with features for cataloging, borrowing, and community recommendations.
 
-**Tech:** Node.js, Express.js, MongoDB, React.js, TailwindCSS
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 💊 [VitalSphere Server](https://github.com/Sushrut22/VitalSphere-Server)
+**Healthcare Backend Service**
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+Robust backend service for VitalSphere healthcare platform, handling patient data, appointments, and medical records with enterprise-grade security.
+
+</td>
+<td width="50%">
+
+### 📱 [VitalSphere Client](https://github.com/Sushrut22/VitalSphere-Client)
+**Healthcare Mobile App**
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+Cross-platform mobile application for VitalSphere, providing seamless access to healthcare services with intuitive UI/UX.
+
+</td>
+</tr>
+</table>
 
 ---
 
